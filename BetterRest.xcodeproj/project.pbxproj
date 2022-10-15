@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		953ED38828FA8EB300D40CEF /* StepperView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953ED38728FA8EB300D40CEF /* StepperView.swift */; };
+		953ED38A28FA936300D40CEF /* DatePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953ED38928FA936300D40CEF /* DatePickerView.swift */; };
 		9554F10628FA8A0500C5D045 /* BetterRestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9554F10528FA8A0500C5D045 /* BetterRestApp.swift */; };
 		9554F10828FA8A0500C5D045 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9554F10728FA8A0500C5D045 /* ContentView.swift */; };
 		9554F10A28FA8A0700C5D045 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9554F10928FA8A0700C5D045 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		953ED38728FA8EB300D40CEF /* StepperView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperView.swift; sourceTree = "<group>"; };
+		953ED38928FA936300D40CEF /* DatePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerView.swift; sourceTree = "<group>"; };
 		9554F10228FA8A0500C5D045 /* BetterRest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BetterRest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9554F10528FA8A0500C5D045 /* BetterRestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BetterRestApp.swift; sourceTree = "<group>"; };
 		9554F10728FA8A0500C5D045 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				953ED38728FA8EB300D40CEF /* StepperView.swift */,
+				953ED38928FA936300D40CEF /* DatePickerView.swift */,
 			);
 			path = Concepts;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 			files = (
 				9554F10828FA8A0500C5D045 /* ContentView.swift in Sources */,
 				953ED38828FA8EB300D40CEF /* StepperView.swift in Sources */,
+				953ED38A28FA936300D40CEF /* DatePickerView.swift in Sources */,
 				9554F10628FA8A0500C5D045 /* BetterRestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
